@@ -9,7 +9,8 @@ WanderBuddy is a web-based application providing enthusiastic trip goers with a 
 7. View your old and upcoming trips
 8. View old and upcoming trips of other users
 
-## Sample Demo Screenshots
+## Sample Demo Video
+https://drive.google.com/file/d/1tlvX6KWwfpFd3Z__p65mAoCEB2Di23Uo/view?usp=sharing
 
 ## Pre-requisites Set Up
 ### AWS services configured:
